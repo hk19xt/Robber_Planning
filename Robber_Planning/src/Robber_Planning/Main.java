@@ -1,5 +1,10 @@
 package Robber_Planning;
 
+/*This class is the main class.
+  The users can change their input amount of houses in the hardcoded line.
+  The maximum 
+*/
+
 public class Main {
     public static void main(String[] args){
         Robber_Planning RP = new Robber_Planning();
